@@ -13,6 +13,7 @@
   "author": "William Fred",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.18.2"
+    "express": "^4.18.2",
+    "socket.io": "^4.5.4"
   }
 }
